@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of travis is to ...
+An example of a functioning package with associated github pages successfully deployed; used to troubleshoot package issues.
 
 ## Installation
 
