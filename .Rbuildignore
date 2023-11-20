@@ -1,0 +1,4 @@
+^travis\.Rproj$
+^LICENSE\.md$
+^renv$
+^renv\.lock$
